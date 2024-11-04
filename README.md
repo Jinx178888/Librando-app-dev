@@ -1,6 +1,7 @@
 # Librando-app-dev
 
-### ***MY LIST OF FAVORITE MOVIES/SERIES*** : joy :
+### ***MY LIST OF FAVORITE MOVIES/SERIES***  
+: joy :
 
 > Anime
 - Tora Dora
